@@ -1,0 +1,168 @@
+{
+  "FootballPlayers": [
+    {
+      "Name": "Lionel Messi",
+      "Nationality": "Argentinian",
+      "Gender": "Male",
+      "Years": 34,
+      "Club": "Barcelona",
+      "Achievement": 10
+    },
+    {
+      "Name": "Cristiano Ronaldo",
+      "Nationality": "Portuguese",
+      "Gender": "Male",
+      "Years": 36,
+      "Club": "Manchester United",
+      "Achievement": 20
+    },
+    {
+      "Name": "Neymar Jr.",
+      "Nationality": "Brazilian",
+      "Gender": "Male",
+      "Years": 29,
+      "Club": "Paris Saint-Germain",
+      "Achievement": 8
+    },
+    {
+      "Name": "Robert Lewandowski",
+      "Nationality": "Polish",
+      "Gender": "Male",
+      "Years": 32,
+      "Club": "Bayern Munich",
+      "Achievement": 7
+    },
+    {
+      "Name": "Kylian Mbappé",
+      "Nationality": "French",
+      "Gender": "Male",
+      "Years": 22,
+      "Club": "Real Madrid",
+      "Achievement": 6
+    },
+    {
+      "Name": "Dyadya Vasya",
+      "Nationality": "Turkish",
+      "Gender": "Male",
+      "Years": 76,
+      "Club": "Odnonogiy Saper",
+      "Achievement": 1488
+    },
+    {
+      "Name": "Petro Petrenko",
+      "Nationality": "Ukrainian",
+      "Gender": "Male",
+      "Years": 32,
+      "Club": "Arsenal",
+      "Achievement": 47
+    },
+    {
+      "Name": "Vladislav Kostil",
+      "Nationality": "Ukranian",
+      "Gender": "Male ",
+      "Years": 23,
+      "Club": "Arsenal",
+      "Achievement": 16
+    },
+    {
+      "Name": "Ostap Lysh",
+      "Nationality": "Ukrainian",
+      "Gender": "Male",
+      "Years": 50,
+      "Club": "Arsenal",
+      "Achievement": 55
+    }
+  ],
+  "HockeyPlayers": [
+    {
+      "Name": "Alexander Ovechkin",
+      "Nationality": "Russian",
+      "Gender": "Male",
+      "Years": 36,
+      "Club": "Washington Capitals",
+      "Achievement": 23
+    },
+    {
+      "Name": "Sidney Crosby",
+      "Nationality": "Canadian",
+      "Gender": "Male",
+      "Years": 34,
+      "Club": "Pittsburgh Penguins",
+      "Achievement": 50
+    },
+    {
+      "Name": "Connor McDavid",
+      "Nationality": "Canadian",
+      "Gender": "Male",
+      "Years": 24,
+      "Club": "Edmonton Oilers",
+      "Achievement": 15
+    },
+    {
+      "Name": "Nikita Kucherov",
+      "Nationality": "Russian",
+      "Gender": "Male",
+      "Years": 28,
+      "Club": "Tampa Bay Lightning",
+      "Achievement": 49
+    },
+    {
+      "Name": "Auston Matthews",
+      "Nationality": "Canadian",
+      "Gender": "Male",
+      "Years": 24,
+      "Club": "Toronto Maple Leafs",
+      "Achievement": 1
+    },
+    {
+      "Name": "Maksimka",
+      "Nationality": "American",
+      "Gender": "Male",
+      "Years": 12,
+      "Club": "Dinamo",
+      "Achievement": 55
+    }
+  ],
+  "BasketballPlayers": [
+    {
+      "Name": "LeBron James",
+      "Nationality": "American",
+      "Gender": "Male",
+      "Years": 36,
+      "Club": "Los Angeles Lakers",
+      "Achievement": 1000
+    },
+    {
+      "Name": "Kevin Durant",
+      "Nationality": "American",
+      "Gender": "Male",
+      "Years": 32,
+      "Club": "Brooklyn Nets",
+      "Achievement": 6
+    },
+    {
+      "Name": "Giannis Antetokounmpo",
+      "Nationality": "Greek",
+      "Gender": "Male",
+      "Years": 26,
+      "Club": "Milwaukee Bucks",
+      "Achievement": 2
+    },
+    {
+      "Name": "Stephen Curry",
+      "Nationality": "American",
+      "Gender": "Male",
+      "Years": 33,
+      "Club": "Golden State Warriors",
+      "Achievement": 228
+    },
+    {
+      "Name": "Ghoul",
+      "Nationality": "Nigger",
+      "Gender": "Male",
+      "Years": 15,
+      "Club": "Lakers",
+      "Achievement": 33
+    }
+  ]
+}
